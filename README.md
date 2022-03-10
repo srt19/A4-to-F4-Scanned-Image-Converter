@@ -9,3 +9,9 @@ Therefore, I made this program to solve that problem.
 * Select your output file name
 * Click Merge Image
 * There you go, F4 Sized paper without cropped bottom
+
+# How To Run
+* Python 3.9
+* clone this repository
+* pip install -r requirements.txt
+* run the main.py
