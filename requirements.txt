@@ -1,0 +1,5 @@
+PyQt6==6.2.3
+opencv-contrib-python=4.5.3.56
+pillow==9.0.1
+scipy==1.8.0
+numpy==1.22.0
